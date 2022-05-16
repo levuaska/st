@@ -22,14 +22,22 @@
 
 <h2>Installation</h2>
   
+### First way
+
 - Clone this repository
 - Use `xrdb merge` with the path to `.Xresources`, for example:
 
 ```
 xrdb merge ./st/.Xresources
 ```
-- Other way is copy the content of `.Xresources` to your `~/.Xresources`.
+### Second way
+
+- Copy the content of `.Xresources` to your `~/.Xresources`.
   
+### Third way
+
+- Copy the contents of levuaska.h and replace into your st build's config.h
+
 <h2>Thanks<h2>
 
 - [justleoo](https://github.com/justleoo)
