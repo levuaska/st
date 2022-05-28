@@ -20,7 +20,7 @@
   <img src="assets/showcase.png"></img>
 </div>
 
-<h2>Installation</h2>
+<h2>🔎 Installation</h2>
   
 ### First way
 
@@ -36,9 +36,9 @@ xrdb merge ./st/.Xresources
   
 ### Third way
 
-- Copy the contents of levuaska.h and replace into your st build's config.h
+- Copy the contents of `levuaska.h` and replace into your st build's `config.h`
 
-<h2>Thanks<h2>
+<h2>💜 Thanks<h2>
 
 - [justleoo](https://github.com/justleoo)
 - [AlphaTechnolog](https://github.com/alphatechnolog)
